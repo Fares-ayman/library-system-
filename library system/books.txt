@@ -1,0 +1,7 @@
+1%Harry Potter 1#J K Rowling$1997@false*eman emad|29/4/2018|29/5/2018|
+2%Harry Potter 2#J K Rowling$1998@true*
+3%Harry Potter 3#J K Rowling$1999@true*
+4%Harry Potter 4#J K Rowling$2000@true*
+5%Harry Potter 5#J K Rowling$2003@true*
+6%Harry Potter 6#J K Rowling$2005@true*
+7%Harry Potter 7#J K Rowling$2007@true*
